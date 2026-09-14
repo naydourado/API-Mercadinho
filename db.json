@@ -1,0 +1,46 @@
+{
+    "usuarios": [
+        {
+            "id": 1,
+            "email": "nayra@gmail.com",
+            "senha": "123456"
+        },
+        {
+            "id": 2,
+            "email": "bruno@gmail.com",
+            "senha": "123456"
+        }
+    ],
+    "produtos": [
+        {
+            "id": 1,
+            "nome": "Shampoo do Cristiano Ronaldo",
+            "preco": 40.00,
+            "imagem": "https://assets.unileversolutions.com/v1/1663871.png"
+        },
+        {
+            "id": 2,
+            "nome": "Desodorante do Old Spice",
+            "preco": 30.00,
+            "imagem": "https://drogariavenancio.vtexassets.com/arquivos/ids/7543517/82046_z.jpg.jpg?v=639184396580300000"
+        },
+        {
+            "id": 3,
+            "nome": "Monster Energy Mango",
+            "preco": 8.00,
+            "imagem": "https://m.media-amazon.com/images/I/710CLn5QeyL.jpg"
+        },
+        {
+            "id": 4,
+            "nome": "Stikadinho",
+            "preco": 8.50,
+            "imagem": "https://cms.neugebauer.com.br/storage/products/1577103389-stikadinho70_vertical_mockup.png"
+        },
+        {
+            "id": 5,
+            "nome": "Coquinha Zero",
+            "preco": 6.00,
+            "imagem": "https://assets.ibecom.com.br/ib.item.image.large/l-77d4292615f341e6b7bd6a0818cda125.png"
+        }
+    ]
+}
